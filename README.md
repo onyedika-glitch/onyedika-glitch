@@ -5,6 +5,7 @@
 - 📫 Reach me via WhatsApp..09132175272
 - 😄 Pronouns: Onyedika
 - ⚡ Fun fact: always jovia,so friendly and social
+This history of animals is a stroryline discussing about animals. it's all about everything you need to know about animals.
 
 <!---
 onyedika-glitch/onyedika-glitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
