@@ -1,13 +1,66 @@
-- 👋 Hi, I’m @onyedika-glitch,Omogo Peter as name.
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning HTML, CSS, JavaScript,react.js and Vue.js
-- 💞️ I’m looking to collaborate on web development projects
-- 📫 Reach me via WhatsApp..09132175272
-- 😄 Pronouns: Onyedika
-- ⚡ Fun fact: always jovia,so friendly and social
-This history of animals is a stroryline discussing about animals. it's all about everything you need to know about animals.
+👋 Hi, I'm Omogo Peter!
+I'm a software developer based in Enugu, Nigeria.
 
-<!---
-onyedika-glitch/onyedika-glitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+With nearly 4 years of experience, I specialize in full-stack frontend and backend web development, Mailchimp integration,Facebook Pixel and integration and all integrations you wish to have. I love building solutions that help individuals, businesses, and companies grow. My projects span marketing, education, e-commerce, real estate, and blockchain industries.
+
+Let's collaborate and bring your ideas to life. 🚀
+
+🛠 Toolbox
+Frontend Development:
+✅ React
+✅ React Native
+✅ Next.js
+✅ TailwindCSS
+✅ Nuxt.js
+✅ Vue.js
+✅ Bootstrap
+✅ TypeScript
+✅ JavaScript
+✅ C++
+✅ HTML
+✅ CSS
+
+**Backend
+
+✅ NestJS
+✅ Strapi
+✅ MongoDB
+✅ PostgreSQL
+✅ MySQL
+✅ Firebase
+✅ Supabase
+✅ GraphQL
+✅ PHP
+✅ Java
+✅ Python
+
+Blockchain Development:
+✅ Solidity
+✅ Hardhat
+✅ Ethers.js
+
+Testing:
+✅ Cypress
+✅ Jest
+✅ Mocha
+✅ Laravel
+
+Version Control:
+✅ Git
+✅ GitHub
+✅ GitLab
+✅ Bitbucket
+
+Others:
+✅ Docker
+✅ Jenkins
+✅ CI/CD
+
+📌 Other Things
+I love photography and content creation. 📸
+I enjoy sharing knowledge through public speaking and writing articles. 📝
+Open to freelance and collaborations. 💼
+📬 Reach out to me on
+📸 Instagram | 💼 LinkedIn | 📝 DEV.to
+
+
