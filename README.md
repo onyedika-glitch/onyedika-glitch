@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=onyedika-glitch&style=flat-square&color=0ea5e9)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/onyedika-peter)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/onyedika_peter)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/PeterOmogo2)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omogopeter48@gmail.com)
 
 **Building scalable web applications | 4+ years of experience | Full-stack developer**
@@ -116,10 +116,10 @@ I'm passionate about clean code, best practices, and collaborating with teams to
 I'm always interested in discussing exciting projects, collaborations, or just having a conversation about web development.
 
 - **📧 Email**: [omogopeter48@gmail.com](mailto:omogopeter48@gmail.com)
-- **🐦 Twitter**: [@onyedika_peter](https://x.com/PeterOmogo2)
-- **📸 Instagram**: [@onyedika_peter](https://www.instagram.com/devomogo)
-- **💻 Portfolio**: [onyedika-glitch.com](https://devomogo.vercel.app)
-- **📝 Whatsapp**: [dev.to/@onyedika](https://wa.me/2349132175272)
+- **🐦 Twitter**: [@Dev Omogo](https://x.com/PeterOmogo2)
+- **📸 Instagram**: [@devomogo](https://www.instagram.com/devomogo)
+- **💻 Portfolio**: [dev Omogo](https://devomogo.vercel.app)
+- **📝 Whatsapp**: [Dev Omogo](https://wa.me/2349132175272)
 
 ---
 
