@@ -10,7 +10,7 @@ jobs:
       contents: write
 
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: onyedika-glitch/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: onyedika-glitch
