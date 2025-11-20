@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-I'm a full-stack software developer based in **Enugu, Nigeria**, with **4+ years** of professional experience building robust web applications and digital solutions. I specialize in creating high-performance applications that solve real-world problems across marketing, education, e-commerce, real estate, and blockchain industries.
+I'm a full-stack software developer, works **Remotely**, with **years** of professional experience building robust web applications and digital solutions. I specialize in creating high-performance applications that solve real-world problems across marketing, education, e-commerce, real estate, and blockchain industries.
 
 I'm passionate about clean code, best practices, and collaborating with teams to deliver exceptional digital experiences. When I'm not coding, you'll find me creating content, sharing knowledge through writing and speaking, or exploring the world through photography.
 
@@ -72,6 +72,26 @@ I'm passionate about clean code, best practices, and collaborating with teams to
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onyedika-glitch&layout=compact&theme=dark&hide_border=true)
 
 </div>
+
+<br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onyedika-glitch/onyedika-glitch/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onyedika-glitch/onyedika-glitch/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/onyedika-glitch/onyedika-glitch/output/github-snake.svg" />
+</picture>
+
+
+<div align="center">
+  <a href="https://github.com/onyedika-glitch">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=onyedika-glitch&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=onyedika-glitch&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=onyedika-glitch&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=onyedika-glitch&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onyedika-glitch&theme=2077" height="180em" />
+  </a>
+</div>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=onyedika-glitch&theme=vue-dark&private=false" width="5000"/>
+ -->
 
 ---
 
