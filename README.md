@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/PeterOmogo2)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omogopeter48@gmail.com)
 
-**Building scalable web applications | 4+ years of experience | Full-stack developer**
+**Building scalable web applications | experience plugin developer | Full-stack developer**
 
 </div>
 
