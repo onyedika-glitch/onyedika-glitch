@@ -31,3 +31,4 @@ jobs:
           git commit -m "Generate snake animation"
           git push
 
+
