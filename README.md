@@ -69,7 +69,7 @@ I'm passionate about clean code, best practices, and collaborating with teams to
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=onyedika-glitch&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onyedika-glitch&layout=compact&theme=vision-friendly-dark)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=onyedika-glitch&layout=compact&theme=vision-friendly-dark)
 
 </div>
 
