@@ -94,6 +94,23 @@ I am a Senior Software Infrastructure Engineer and Founder of [Gigora Network](h
 
 </div>
 
+<br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onyedika-glitch/onyedika-glitch/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onyedika-glitch/onyedika-glitch/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/onyedika-glitch/onyedika-glitch/output/github-snake.svg" />
+</picture>
+
+<div align="center">
+  <a href="https://github.com/onyedika-glitch">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=onyedika-glitch&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=onyedika-glitch&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=onyedika-glitch&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=onyedika-glitch&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onyedika-glitch&theme=2077" height="180em" />
+  </a>
+</div>
+
 ***
 
 ## Featured Projects
