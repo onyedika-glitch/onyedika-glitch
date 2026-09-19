@@ -8,6 +8,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/PeterOmogo2)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omogopeter48@gmail.com)
 
+**Founder of [Gigora Network](https://gigoranetwork.com) & [YouExtractor](https://youextractor.me)**
+
 **Building scalable web applications, mobile apps, AI developer tools, and high performance backends**
 
 </div>
@@ -16,7 +18,7 @@
 
 ## About Me
 
-I am a full stack and mobile software developer with years of professional experience building high performance web applications, mobile applications, developer tools, AI integrations, and digital platforms. I specialize in building end to end solutions across marketing, healthcare, real estate, fintech, web3, logistics, and freelance marketplaces.
+I am a Senior Software Infrastructure Engineer and Founder of [Gigora Network](https://gigoranetwork.com) and [YouExtractor](https://youextractor.me). I have years of professional experience building high performance web applications, mobile applications, developer tools, AI integrations, and digital platforms. I specialize in building end to end solutions across marketing, healthcare, real estate, fintech, web3, logistics, and freelance marketplaces.
 
 ***
 
@@ -101,13 +103,9 @@ I am a full stack and mobile software developer with years of professional exper
 | [YouExtractor](https://youextractor.me) | AI platform and Chrome extension converting YouTube tutorials into full project repos and guides | Laravel, PHP, DeepSeek AI, Gemini AI, Bachs Payments, Chrome Extension MV3 |
 | [Gigora Network](https://gigoranetwork.com) | Remote freelance marketplace connecting developers and clients with secure escrow | Laravel, PHP, PostgreSQL, React, Tailwind CSS |
 | [Discount Club Cayman](https://discountclubcayman.com) | Digital membership platform with cross platform mobile apps for members and business owners | Flutter, Dart, Firebase, React, Node.js, Express, MongoDB |
-| [BLT Data Analyzer](https://github.com/onyedika-glitch) | High throughput multi threaded web extraction engine and lead intelligence service | FastAPI, Python, AsyncPG, Playwright, Selenium, SQLAlchemy |
-| [CareMandate](https://github.com/onyedika-glitch) | Healthcare management and patient provider portal application | Node.js, Express.js 5, TypeScript, Prisma ORM, PostgreSQL, React 19, Vite |
-| [GossiperAI](https://github.com/onyedika-glitch) | Web3 AI voice audio transcription and chat intelligence platform | Next.js 14, Solana Web3.js, Ethers.js, Supabase, AssemblyAI |
-| [Brimble Platform](https://github.com/onyedika-glitch) | Containerized full stack cloud deployment engine and application hosting platform | Fastify, Prisma ORM, Better SQLite3, WebSockets, Docker |
+| [Brimble Platform](https://github.com/onyedika-glitch/brimble) | Containerized full stack cloud deployment engine and application hosting platform | Fastify, Prisma ORM, Better SQLite3, WebSockets, Docker |
 | [Sadar Properties](https://sadarproperties.tech) | Real estate wholesaling platform and property deal toolkit with automated scrapers | React, Express, PostgreSQL, Playwright, Tailwind CSS |
-| [Chef Academy of London](https://chefacademyoflondon.com) | Culinary academy portal, course platform and SEO infrastructure | Laravel, PHP, WordPress SEO integration, Render, Docker |
-| [Wayro Logistics](https://github.com/onyedika-glitch) | Realtime peer to peer delivery and logistics engine with live location tracking | Node.js, Express, Socket.io, Twilio, MySQL, PostgreSQL |
+
 
 ***
 
@@ -126,11 +124,11 @@ I am a full stack and mobile software developer with years of professional exper
 
 ## Let us Connect
 
-* **Email**: [omogopeter48@gmail.com](mailto:omogopeter48@gmail.com)
+* **Email**: [omogopeter48@gmail.com](mailto:omogopeter@devomogo.tech)
 * **LinkedIn**: [Omogo Peter](https://www.linkedin.com/in/webdev-omogo-5a6980345)
 * **Upwork**: [Onyedika Peter](https://www.upwork.com/freelancers/~013077fb5d5da3ce49)
 * **Twitter**: [@Dev Omogo](https://x.com/PeterOmogo2)
-* **Portfolio**: [dev Omogo](https://devomogo.vercel.app)
+* **Portfolio**: [dev Omogo](https://devomogo.tech)
 * **WhatsApp**: [Dev Omogo](https://wa.me/2349132175272)
 
 ***
