@@ -1,69 +1,74 @@
-# Onyedika Peter - Full-Stack Developer
+# Onyedika Peter - Full Stack Software Developer
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=onyedika-glitch&style=flat-square&color=0ea5e9)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/onyedika-peter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/webdev-omogo-5a6980345)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~013077fb5d5da3ce49)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/PeterOmogo2)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omogopeter48@gmail.com)
 
-**Building scalable web applications | experience plugin developer | Full-stack developer**
+**Building scalable web applications, AI developer tools, and high performance backends**
 
 </div>
 
----
+***
 
-## 👋 About Me
+## About Me
 
-I'm a full-stack software developer, works **Remotely**, with **years** of professional experience building robust web applications and digital solutions. I specialize in creating high-performance applications that solve real-world problems across marketing, education, e-commerce, real estate, and blockchain industries.
+I am a full stack software developer with years of professional experience building high performance web applications, developer tools, AI integrations, and digital platforms. I specialize in building end to end solutions across marketing, education, real estate, fintech, and freelance marketplaces.
 
-I'm passionate about clean code, best practices, and collaborating with teams to deliver exceptional digital experiences. When I'm not coding, you'll find me creating content, sharing knowledge through writing and speaking, or exploring the world through photography.
+***
 
----
+## Technical Stack
 
-## 🛠️ Technical Stack
+### AI and Machine Learning Integrations
+![DeepSeek](https://img.shields.io/badge/DeepSeek-0052CC?style=flat-square&logo=deepseek&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-### Frontend Development
+### Frontend Development and Extensions
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extension%20MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+### Backend Architecture and Queues
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
-### Databases & Services
+### Payments and FinTech Integrations
+![Bachs](https://img.shields.io/badge/Bachs%20Payments-2563EB?style=flat-square)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+![Paystack](https://img.shields.io/badge/Paystack-09A5DB?style=flat-square)
+
+### Databases and Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### Blockchain & Web3
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF04D?style=flat-square)
+### Automation and Scraping
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
 
-### DevOps & Tools
+### DevOps and Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Jenkins-blue?style=flat-square)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-### Testing & Quality
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+***
 
----
-
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -73,89 +78,46 @@ I'm passionate about clean code, best practices, and collaborating with teams to
 
 </div>
 
-<br />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onyedika-glitch/onyedika-glitch/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onyedika-glitch/onyedika-glitch/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/onyedika-glitch/onyedika-glitch/output/github-snake.svg" />
-</picture>
+***
 
-
-
-<div align="center">
-  <a href="https://github.com/onyedika-glitch">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=onyedika-glitch&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=onyedika-glitch&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=onyedika-glitch&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=onyedika-glitch&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onyedika-glitch&theme=2077" height="180em" />
-  </a>
-</div>
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=onyedika-glitch&theme=vue-dark&private=false" width="5000"/>
- -->
-
----
-
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| [Floorhosting](https://floorhostings.vercel.app/) | Professional web hosting control panel | HTML5, CSS3, JavaScript, Tailwind CSS |
-| [Handyman NG](https://handymanng.com) | Service marketplace platform | React, Node.js, MongoDB |
-| [iLearnova](https://ilearnovafrontend.vercel.app) | E-learning platform serving 500+ users | React, Node.js, PostgreSQL |
-| [ATOM Group](https://atom-landing-five.vercel.app/) | AI technology company landing page | React, Tailwind CSS |
-| [Student Board](https://student-board.onrender.com/) | Digital bulletin board for students | Full-stack application |
+| [YouExtractor](https://youextractor.me) | AI platform and Chrome extension converting YouTube tutorials into full project repos and guides | Laravel, PHP, DeepSeek AI, Gemini AI, Bachs Payments, Chrome Extension MV3 |
+| [Gigora Network](https://gigoranetwork.com) | Remote freelance marketplace connecting developers and clients with secure escrow | Laravel, PHP, PostgreSQL, React, Tailwind CSS |
+| [Discount Club Cayman](https://discountclubcayman.com) | Digital membership and discount platform connecting local businesses | React, Node.js, Express, MongoDB, Tailwind CSS |
+| [Sadar Properties](https://sadarproperties.tech) | Real estate wholesaling platform and property toolkit with Playwright scrapers | React, Express, PostgreSQL, Playwright, Tailwind CSS |
+| [CareMandate](https://github.com/onyedika-glitch) | Healthcare management and patient provider portal application | Node.js, Express, PostgreSQL, React |
 
-**👉 [View all projects](https://devomogo.vercel.app)**
+***
 
----
+## Expertise and Services
 
-## 💼 Expertise & Services
+* **Full Stack Web Development**: End to end application architecture and production deployment
+* **AI Tooling and Integrations**: DeepSeek, OpenAI, and Gemini API pipelines with prompt engineering
+* **Browser Extension Engineering**: Chrome Extension Manifest V3 in page side panels and session bridges
+* **FinTech and Payment Gateways**: Bachs checkout sessions, HMAC webhooks, and Stripe integrations
+* **Backend Queue Workers**: Event driven queue architecture in Laravel and Node.js
+* **Automation and Web Scraping**: Playwright and Puppeteer data pipelines
 
-- **Full-Stack Web Development**: End-to-end application development
-- **Frontend Development**: React, Vue, Next.js with modern CSS frameworks
-- **Backend Architecture**: REST APIs, microservices, database design
-- **Third-Party Integrations**: Mailchimp, Facebook Pixel, payment gateways, and more
-- **UI/UX Design**: Figma design-to-code implementation
-- **Performance Optimization**: SEO, Core Web Vitals, caching strategies
-- **DevOps & Deployment**: Docker, CI/CD pipelines, hosting solutions
+***
 
----
+## Let us Connect
 
-## 📈 What I'm Currently Doing
+* **Email**: [omogopeter48@gmail.com](mailto:omogopeter48@gmail.com)
+* **LinkedIn**: [Omogo Peter](https://www.linkedin.com/in/webdev-omogo-5a6980345)
+* **Upwork**: [Onyedika Peter](https://www.upwork.com/freelancers/~013077fb5d5da3ce49)
+* **Twitter**: [@Dev Omogo](https://x.com/PeterOmogo2)
+* **Portfolio**: [dev Omogo](https://devomogo.vercel.app)
+* **WhatsApp**: [Dev Omogo](https://wa.me/2349132175272)
 
-- 🔨 Building production-ready web applications
-- 📚 Contributing to open-source projects
-- ✍️ Writing technical articles about web development
-- 🎥 Creating content and sharing knowledge
-- 💬 Open to freelance projects and collaborations
-
----
-
-## 📬 Let's Connect!
-
-I'm always interested in discussing exciting projects, collaborations, or just having a conversation about web development.
-
-- **📧 Email**: [omogopeter48@gmail.com](mailto:omogopeter48@gmail.com)
-- **🐦 Twitter**: [@Dev Omogo](https://x.com/PeterOmogo2)
-- **📸 Instagram**: [@devomogo](https://www.instagram.com/devomogo)
-- **💻 Portfolio**: [dev Omogo](https://devomogo.vercel.app)
-- **📝 Whatsapp**: [Dev Omogo](https://wa.me/2349132175272)
-
----
-
-## 📄 License
-
-This profile repository is open source and available under the MIT License.
-
----
+***
 
 <div align="center">
 
-**Made with ❤️ by Onyedika Peter**
+**Made by Onyedika Peter**
 
-⭐ If you find my work interesting, feel free to star this repository!
+If you find my work interesting, feel free to star this repository.
 
 </div>
-
-
