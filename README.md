@@ -8,7 +8,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/PeterOmogo2)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omogopeter48@gmail.com)
 
-**Founder of [Gigora Network](https://gigoranetwork.com) & [YouExtractor](https://youextractor.me)**
+**Founder of [Japa Coach](https://japacoach.com), [Gigora Network](https://gigoranetwork.com) & [YouExtractor](https://youextractor.me)**
 
 **Building scalable web applications, mobile apps, AI developer tools, and high performance backends**
 
@@ -18,7 +18,7 @@
 
 ## About Me
 
-I am a Senior Software Infrastructure Engineer and Founder of [Gigora Network](https://gigoranetwork.com) and [YouExtractor](https://youextractor.me). I have years of professional experience building high performance web applications, mobile applications, developer tools, AI integrations, and digital platforms. I specialize in building end to end solutions across marketing, healthcare, real estate, fintech, web3, logistics, and freelance marketplaces.
+I am a Senior Software Infrastructure Engineer and Founder of [Japa Coach](https://japacoach.com), [Gigora Network](https://gigoranetwork.com) and [YouExtractor](https://youextractor.me). I have years of professional experience building high performance web applications, mobile applications, developer tools, AI integrations, and digital platforms. I specialize in building end to end solutions across education, marketing, healthcare, real estate, fintech, web3, logistics, and freelance marketplaces.
 
 ***
 
@@ -47,6 +47,7 @@ I am a Senior Software Infrastructure Engineer and Founder of [Gigora Network](h
 ![Anthropic](https://img.shields.io/badge/Anthropic-D97706?style=flat-square&logo=anthropic&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![AssemblyAI](https://img.shields.io/badge/AssemblyAI-000000?style=flat-square)
+![Whisper](https://img.shields.io/badge/Whisper%20Speech%20to%20Text-412991?style=flat-square)
 
 ### Frontend Development and Extensions
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
@@ -117,6 +118,7 @@ I am a Senior Software Infrastructure Engineer and Founder of [Gigora Network](h
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
+| [Japa Coach](https://japacoach.com) | AI IELTS practice for Nigerians: speak answers out loud and get an estimated band with sentence level fixes in minutes. Web app and native Android app | Laravel, Vue 3, Flutter, FastAPI, Whisper, PostgreSQL, Docker, Google Play Billing |
 | [YouExtractor](https://youextractor.me) | AI platform and Chrome extension converting YouTube tutorials into full project repos and guides | Laravel, PHP, DeepSeek AI, Gemini AI, Bachs Payments, Chrome Extension MV3 |
 | [Gigora Network](https://gigoranetwork.com) | Remote freelance marketplace connecting developers and clients with secure escrow | Laravel, PHP, PostgreSQL, React, Tailwind CSS |
 | [Discount Club Cayman](https://discountclubcayman.com) | Digital membership platform with cross platform mobile apps for members and business owners | Flutter, Dart, Firebase, React, Node.js, Express, MongoDB |
